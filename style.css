@@ -1,0 +1,40 @@
+
+html{
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+header h1{
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+section p ,a {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+section h2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+section h4{
+    color: Gray;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+body{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+}
